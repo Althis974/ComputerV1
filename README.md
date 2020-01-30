@@ -21,11 +21,11 @@ d’aborder plus progressivement et sereinement les sujets où il y en a besoin.
 Voici une liste non exhaustive des sujets où savoir ce que sont et comment manipuler
 les polynômes pourrait bien vous être utile :
 
-• Fractol
-• RT
-• mod1
-• Expert System
-• Infin Mult.
+- Fractol
+- RT
+- mod1
+- Expert System
+- Infin Mult.
 
 Par ailleurs, ce petit sujet sera complété par d’autres sur des sujets variés, pour
 comprendre ce que vous faites plutôt que simplement copier une formule sur Internet.
