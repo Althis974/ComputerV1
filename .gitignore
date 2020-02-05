@@ -5,7 +5,3 @@
 # random files
 
 __pycache__/
-
-# valgrind files
-
-*.dSYM/
