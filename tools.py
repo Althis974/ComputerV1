@@ -15,9 +15,9 @@ def bad_degree():
 
 def print_float(f, color):
     if color:
-        print(colored("{0:.2f}".format(round(f, 2)), "green"), end=" ")
+        print(colored("{0:.2f}".format(round(f, 3)), "green"), end=" ")
     else:
-        print("{0:.2f}".format(round(f, 2)), end=" ")
+        print("{0:.2f}".format(round(f, 3)), end=" ")
 
 
 def ft_sqrt(n):
