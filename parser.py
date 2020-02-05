@@ -35,7 +35,10 @@ def format_expr(expr):
         seq = a, "X^1"
         expr = s.join(seq)
 
-    expr = expr.replace("X ", "X^1 yo")
+    expr = expr.replace("X ", "X^1 ")
+    expr = expr.replace("+ X", "+ 1 * X")
+    expr = expr.replace("- X", "- 1 * X")
+    expr = expr.replace("= X", "= 1 * X")
 
     return expr
 
