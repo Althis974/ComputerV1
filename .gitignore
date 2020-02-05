@@ -1,0 +1,11 @@
+# pycharm's stuff
+
+.idea/
+
+# random files
+
+__pycache__/
+
+# valgrind files
+
+*.dSYM/
