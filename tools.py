@@ -49,7 +49,7 @@ def reduce_form(degree, a, b, c):
             print(colored(c, "green"), colored("= 0", "green"))
             print(colored("\n---------------- SOLUTION ------------------\n",
                           "yellow"))
-            print(colored("|R are solution.", "green"))
+            print(colored("ℝ are solution.", "green"))
         else:
             print(colored(c, "green"), colored("= 0", "green"))
             print(colored("\n---------------- SOLUTION ------------------\n",
